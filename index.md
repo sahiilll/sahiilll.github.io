@@ -13,7 +13,7 @@
 
 ---
 [Active Information Gathering](/active_info_gathering)
-<img src="images/info_gathering.jpeg?raw=true"/>
+<img src="images/info_gathering.jpg?raw=true"/>
 
 ---
 
