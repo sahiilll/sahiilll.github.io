@@ -4,16 +4,16 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[DHCP Starvation Attack](/dhcp_starvation_attack)
+<img src="images/dhcp_starvation.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[SSL Strip MITM Attack](/sslstrip_attack)
+<img src="images/sslstrip.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Active Information Gathering](/active_info_gathering)
+<img src="images/info_gathering.jpeg?raw=true"/>
 
 ---
 
