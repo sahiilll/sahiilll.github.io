@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [DHCP Starvation Attack](/dhcp_starvation_attack)
-<img src="images/dhcp_starvation.png?raw=true"/>
+<img src="images/dhcp_starvation.png?raw=true"/>(/dhcp_starvation_attack)
 
 ---
 [SSL Strip MITM Attack](/sslstrip_attack)
