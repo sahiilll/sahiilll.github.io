@@ -9,12 +9,6 @@ machine.
 Scapy – Scapy is a package in python which is used to send and receive manipulated network packets wrapped in any one of the layers of OSI model. It is able to forge or decode packets of a wide number of protocols, send them on the wire, capture them, match requests and
 replies
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
 ### 2. Algorithm 
 
 1. Two different threads has been formed 1) one for sending the packets and 2) another
@@ -36,16 +30,12 @@ if (isAwesome){
 Vim tool is used to open the file and any IP registration which were there already has been
 deleted to empty the IP pool. The dhcpd.leases is maintained to register any IP for any MAC
 for specified amount of time. 
-<img src="images/dhcp1.jpg?raw=true"/>
+<img src="images/dhcp1.png?raw=true"/>
 
 root@kali:#/ python dhcpStarvation.py
 The above command is used to launch the dhcp starvation attack and run the script on the machine.
 The program outputs if ACK is received for the packet or NACK is received.
 
-<img src="images/dhcp2.jpg?raw=true"/>
+<img src="images/dhcp2.png?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
