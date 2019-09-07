@@ -30,12 +30,12 @@ replies
 Vim tool is used to open the file and any IP registration which were there already has been
 deleted to empty the IP pool. The dhcpd.leases is maintained to register any IP for any MAC
 for specified amount of time. 
-<img src="images/dhcp1.png?raw=true"/>
+<img src="images/dhcp1.PNG?raw=true"/>
 
 root@kali:#/ python dhcpStarvation.py
 The above command is used to launch the dhcp starvation attack and run the script on the machine.
 The program outputs if ACK is received for the packet or NACK is received.
 
-<img src="images/dhcp2.png?raw=true"/>
+<img src="images/dhcp2.PNG?raw=true"/>
 
 
