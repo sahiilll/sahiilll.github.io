@@ -53,8 +53,6 @@ SMTP.
 
 ## SSH Banner:
 
-<img src="images/info5.PNG?raw=true"/>
-
 Same with the ssh connection on doing netcat connection on port 22, it gives you the service
 running on the port and the version of the service running. Thus we can infer that the host
 machine is running SSH-2.0-OpenSSH_4.7p1 service on Ubuntu.
@@ -75,7 +73,7 @@ As we can see, the scan give the following result. Scan found out 19 vulnerabili
 severity, 36 vulnerabilities with medium severity and 3 vulnerabilities with low severity. The final
 score was 10.0 on the severity scale which is very high.
 
-<img src="images/info6.PNG?raw=true"/>
+<img src="images/info5.PNG?raw=true"/>
 
 ## Compare port scanning with NetCat vs NMAP
 **Nmap:**
