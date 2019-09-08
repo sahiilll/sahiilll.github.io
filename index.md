@@ -1,8 +1,5 @@
 Blogs
 
----
-
-### Category Name 1 
 
 [DHCP Starvation Attack](/dhcp_starvation_attack)
 <img src="images/dhcp_starvation.png?raw=true"/>
@@ -17,13 +14,12 @@ Blogs
 
 ---
 
-### Category Name 2
+### Academic Work
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Case Study: Meltdown and Spectre](/pdf/Case Study Meltdown And Spectre.pdf)
+- [Password Managers Vulnerabilities](/pdf/Password Manager - Vulnerability Advisory.pdf)
+- [Jeep Hacking](/pdf/Jeep Hacking - Security Advisory.pdf)
+- [MS08-067 Vulnerability](/pdf/Global Comm - MS08-067 Vulnerability Advisory.pdf)
 
 ---
 
