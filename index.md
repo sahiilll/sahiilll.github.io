@@ -20,7 +20,7 @@ Blogs
 - [Password Managers Vulnerabilities](/pdf/Password Manager - Vulnerability Advisory.pdf)
 - [Jeep Hacking](/pdf/Jeep Hacking - Security Advisory.pdf)
 - [MS08-067 Vulnerability](/pdf/Global Comm - MS08-067 Vulnerability Advisory.pdf)
-
+- [Cyber Range Pentesting Report](/pdf/GCyber Range Penetration Testing Report.pdf)
 ---
 
 
