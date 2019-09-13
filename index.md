@@ -19,6 +19,7 @@ Blogs
 - [Case Study: Meltdown and Spectre](/pdf/Case Study Meltdown And Spectre.pdf)
 - [Password Managers Vulnerabilities](/pdf/Password Manager - Vulnerability Advisory.pdf)
 - [Jeep Hacking](/pdf/Jeep Hacking - Security Advisory.pdf)
+- [Cyber Range Pentesting Report](/pdf/Cyber Range Penetration Testing Report.pdf)
 - [MS08-067 Vulnerability](/pdf/Global Comm - MS08-067 Vulnerability Advisory.pdf)
 
 ---
